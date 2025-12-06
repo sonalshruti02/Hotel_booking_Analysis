@@ -1,0 +1,7 @@
+Requirements:
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Jupyter notebook/Anaconda
+Plotly
